@@ -1,2 +1,1 @@
-# sea-c42-python
-Python F2 Class sea-c42
+I deleted my hw by accident (dog ate it)
